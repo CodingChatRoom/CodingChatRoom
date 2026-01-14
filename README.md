@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Muhammad Saqlain Shoukat
 **A passionate Web Developer || Ethical Hacker || Youtuber**
 
-Email Me 👉 ✉️ **saqlainshoukat500@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Coding Chat Room ( a platform with 40+ courses )
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** saqlainshoukat500@gmail.com or instagram
