@@ -3,7 +3,7 @@
 
 - 🔭 **I’m currently working on:** Coding Chat Room ( a platform with 40+ courses )
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** saqlainshoukat500@gmail.com or instagram
+- 📫 **How to reach me:** instagram
 - 😄 **Pronouns:** Sir Saqlain or Dark Wolf
 - ⚡ **Fun fact:** I Love Hacking and Hacking Love Me
 
@@ -31,6 +31,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CodingChatRoom&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodingChatRoom&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=CodingChatRoom&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
